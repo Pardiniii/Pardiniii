@@ -1,7 +1,6 @@
 ### Opa! Sou o Gustavo, estudante de progrmação e um grande curioso sobre tecnologia!
 
 - 🤓 Atualmente estou estudando Python, Java e SQL!
-- 💼 Estou buscando meu primeiro emprego na área como programador.
 
 <div align="center">
   <a href="https://github.com/Pardiniii">
