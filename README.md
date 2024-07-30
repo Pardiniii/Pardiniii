@@ -1,6 +1,6 @@
 ### Opa! Sou o Gustavo, estudante de progrmação e um grande curioso sobre tecnologia!
 
-- 🤓 Atualmente estou estudando Python, Java e SQL!
+- 🤓 Atualmente estou estudando Python, Java, SQL e Kotlin! 
 
 <div align="center">
   <a href="https://github.com/Pardiniii">
