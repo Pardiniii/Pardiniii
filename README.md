@@ -1,6 +1,6 @@
 ### Opa! Sou o Gustavo, estudante de progrmação e um grande curioso sobre tecnologia!
 
-- 🤓 Atualmente estou focando meus estudos em Kotlin para Android e me apofundando no Jetpack Compose! 
+- 🤓 Atualmente estou focando meus estudos em Kotlin, Java e XML para Android! 
 
 <div align="center">
   <a href="https://github.com/Pardiniii">
