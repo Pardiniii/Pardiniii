@@ -1,6 +1,6 @@
 ### Opa! Sou o Gustavo, estudante de progrmação e um grande curioso sobre tecnologia!
 
-- 🤓 Atualmente estou focando meus estudos em Kotlin, Java e XML para Android! 
+- 🤓 Atualmente estou focando meus estudos em Java e Kotlin para desenvolvimento Mobile! 
 
 <div align="center">
   <a href="https://github.com/Pardiniii">
